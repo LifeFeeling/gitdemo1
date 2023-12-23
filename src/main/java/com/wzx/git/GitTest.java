@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("hotfix hello git3!");
         System.out.println("hotfix hello git4!");
         System.out.println("master hello git1!");
+        System.out.println("push");
 
     }
 }
