@@ -13,6 +13,7 @@ public class GitTest {
         System.out.println("push");
         System.out.println("pull");
         System.out.println("pull2");
+        System.out.println("码云需要更新");
 
     }
 }
